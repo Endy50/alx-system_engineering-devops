@@ -9,4 +9,4 @@ manipulates files in a different folder
 deletes file in a different dir
 removes directory in another directory
 change to previous dir
-list all files in long format in current, parent and boot dir
+list all files in long format in order of their dir
