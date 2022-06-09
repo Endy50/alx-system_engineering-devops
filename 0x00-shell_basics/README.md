@@ -7,3 +7,4 @@ list files with numeric IDs only
 mkdir -p creates a dir in a dir
 manipulates files in a different folder
 deletes file in a different folder
+removes directory in another directory
