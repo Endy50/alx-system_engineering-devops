@@ -11,3 +11,4 @@ removes directory in another directory
 change to previous dir
 list all files in long format in order of their dir
 It prints a file type
+this script creates a softlink to a directory
