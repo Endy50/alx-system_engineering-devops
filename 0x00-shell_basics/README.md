@@ -6,3 +6,4 @@ list all files in the current dir
 list files with numeric IDs only
 mkdir -p creates a dir in a dir
 manipulates files in a different folder
+deletes file in a different folder
