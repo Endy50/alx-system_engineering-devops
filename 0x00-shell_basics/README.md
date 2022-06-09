@@ -10,3 +10,4 @@ deletes file in a different dir
 removes directory in another directory
 change to previous dir
 list all files in long format in order of their dir
+It prints a file type
