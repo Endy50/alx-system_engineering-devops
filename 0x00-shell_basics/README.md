@@ -4,3 +4,4 @@ bring me home
 prints in long
 list all files in the current dir
 list files with numeric IDs only
+mkdir -p creates a dir in a dir
