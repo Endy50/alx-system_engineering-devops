@@ -3,3 +3,4 @@ ls list the files and directories here
 bring me home
 prints in long
 list all files in the current dir
+list files with numeric IDs only
