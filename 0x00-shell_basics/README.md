@@ -16,3 +16,4 @@ this script creates a softlink to a directoryupdate html files in parent dir
 move files of a certain group to another dir
 removes files ending with tilde sign
 mkdir
+list with commas and dir indicator
