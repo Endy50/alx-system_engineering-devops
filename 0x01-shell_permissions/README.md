@@ -5,3 +5,4 @@ grant multiple permissions at once
 make everyone have the right to executeonly others have rights
 return certain rights to others
 prints all groups current user is part of
+mirror file permission
