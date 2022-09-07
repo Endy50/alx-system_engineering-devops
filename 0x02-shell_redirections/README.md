@@ -5,3 +5,4 @@ shows contents of two files
 print last 10 lines
 this prints the first 10 lines
 third line
+duplicate the last line
